@@ -26,7 +26,6 @@ void main() async {
           return DashBoardProvider();
         },
       ),
-
     ],
     child: const GetMaterialApp(
       debugShowCheckedModeBanner: false,
